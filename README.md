@@ -329,7 +329,7 @@ print(evidence_only)
 ```
 
 ## **Acknowledgment**  
-Our development is based on our previous works:  
+Our development builds upon our previous works developed by Nam V. Nguyen.
 - [Check-Fact-Question-Answering-System](https://github.com/DAVID-NGUYEN-S16/Check-Fact-Question-Answering-System)  
 - [Extract-Evidence-Question-Answering](https://github.com/DAVID-NGUYEN-S16/Extract-evidence-question-answering)  
 
