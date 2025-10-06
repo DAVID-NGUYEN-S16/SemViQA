@@ -329,7 +329,7 @@ print(evidence_only)
 ```
 
 ## **Acknowledgment**  
-Our development builds upon our previous works developed by Nam V. Nguyen.
+This work builds upon prior research by Nam V. Nguyen, who served as co-first author of the SemViQA paper.
 - [Check-Fact-Question-Answering-System](https://github.com/DAVID-NGUYEN-S16/Check-Fact-Question-Answering-System)  
 - [Extract-Evidence-Question-Answering](https://github.com/DAVID-NGUYEN-S16/Extract-evidence-question-answering)  
 
